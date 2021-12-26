@@ -1,7 +1,11 @@
 # Mission-to-Mars
 Webscraping and Development with Splinter, BS4, Chrome Dev Tools, Flask and MongoDB.
 
-## Dependencies Needed
+## Project Overview
+
+### A bare HTML page with a body message "Mission to Mars" and a single button titled "Scrape New Data" was created. By using Splinter, BS4, webdriver, Chrome Dev Tools, Flask and MongoDB: When the button is clicked, two connected Python files, the website HTML file, and one CSS file compiled to create a Mars website that updated and displayed the newest Mars news, facts, newest JPL featured image, and four Mars hemisphere images.
+
+## `app.py` & `scraping.py` file descriptions and their required dependencies.
 
 ### This project used the following dependencies:
 
