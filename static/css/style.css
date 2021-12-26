@@ -1,0 +1,11 @@
+.flex {
+    display:flex;
+    }
+  .flex div {
+    flex:1;
+    margin:5px; /* need some space ?*/
+    }
+  img {
+    width:100%;
+    height: auto;
+    }
